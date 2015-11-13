@@ -1,0 +1,29 @@
+{
+  "name": "1password2pass",
+  "version": "0.0.1",
+  "description": "1password2pass is a tool to import passwords from 1password keychain to pass (passwordstore.org)",
+  "author": "Phoenix Nemo <i@phoenixlzx.com>",
+  "bin": {
+    "minori": "./bin/1password2pass"
+  },
+  "main": "lib/index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phoenixlzx/1password2pass.git"
+  },
+  "homepage": "https://github.com/phoenixlzx/1password2pass",
+  "bugs": {
+    "url": "https://github.com/phoenixlzx/1password2pass/issues"
+  },
+  "keywords": [
+    "1password",
+    "pass"
+  ],
+  "dependencies": {
+    "minimist": "1.1.1",
+    "openpgp": "1.3.0"
+  },
+  "preferGlobal": true,
+  "private": false,
+  "license": "MIT"
+}
