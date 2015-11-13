@@ -36,4 +36,3 @@ items.forEach(function(item, index) {
         }
     }
 });
-git
