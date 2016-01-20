@@ -1,8 +1,11 @@
 {
   "name": "1password2pass",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "1password2pass is a tool to import passwords from 1password keychain to pass (passwordstore.org)",
   "author": "Phoenix Nemo <i@phoenixlzx.com>",
+  "contributors": [
+    "Steve Streza <steve@stevestreza.com>"
+  ]
   "bin": {
     "minori": "./bin/1password2pass"
   },
