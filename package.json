@@ -5,7 +5,7 @@
   "author": "Phoenix Nemo <i@phoenixlzx.com>",
   "contributors": [
     "Steve Streza <steve@stevestreza.com>"
-  ]
+  ],
   "bin": {
     "minori": "./bin/1password2pass"
   },
